@@ -1,7 +1,7 @@
 # Show me the data! Web scraping con Python
 ## Semana de la Informática 2018
 
-Actividad realizada durante la Semana de la Informática de la [Facultad de Informática de la UCM](http://informatica.ucm.es)
+Actividad realizada durante la [Semana de la Informática](http://informatica.ucm.es/iv-semana-de-la-informatica-2018) de la [Facultad de Informática de la UCM](http://informatica.ucm.es).
 
 > Si los datos son el petróleo del siglo XXI el web scraping es la perforadora que ayuda a extraer ese valioso producto de los sitios web.
 > 
