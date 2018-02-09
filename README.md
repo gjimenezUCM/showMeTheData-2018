@@ -8,3 +8,20 @@ Actividad realizada durante la [Semana de la Informática](http://informatica.uc
 > En este taller introduciremos cómo realizar web scraping utilizando Python. Se pondrán en práctica dos técnicas de scraping diferentes y las ejemplificaremos usando las librerías Beautiful Soup y Selenium. El taller concluirá con una reflexión sobre los problemas éticos que conlleva el web scraping.
 
 En este repositorio están los notebooks interactivos utilizados durante la sesión presencial. Para ejecutarlos es necesario tener instalado Jupyter Notebook (una forma sencilla es instalando [la suite de Anaconda](https://www.anaconda.com/download/)) y el driver de Selenium para [Chrome](https://sites.google.com/a/chromium.org/chromedriver/) o [Firefox](https://github.com/mozilla/geckodriver/)
+
+## Buenas prácticas al hacer web scraping
+
+Extraído del artículo [Web Scraping: Best Practices to Follow](https://www.promptcloud.com/blog/web-scraping-best-practices) de Prompt Cloud.
+
+- Respeta los [robots.txt](https://en.wikipedia.org/wiki/Robots.txt): Aquí tienes algunos ejemplos:
+    + <https://www.facebook.com/robots.txt>
+    + <https://www.fnac.es/robots.txt>
+    + <https://www.imdb.com/robots.txt>
+    + <https://www.amazon.es/robots.txt>
+    + <https://www.yummly.com/robots.txt>
+    + <https://www.filmin.es/robots.txt> (nos dan permiso para acceder a todo)
+- No hagas que tus robots accedan demasiado a menudo ni muchos en paralelo al sitio web para no ralentizarlo ni tirarlo abajo.
+- Intenta que tus robots no accedan a los sitios en horas punta del uso humano.
+- Hazlo con responsabilidad: no lo uses para republicar los datos extraídos (seguramente infringirás leyes de copyright) y revisa los Términos y Condiciones de Uso del sitio para saber si está permitido.
+- Sé paciente: si vas a utilizarlo de manera continuada, seguramente tendrás que realizar un mantenimiento constante ante los cambios que sufra el sitio web que estás procesando.
+
