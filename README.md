@@ -3,7 +3,7 @@
 
 Actividad realizada durante la [Semana de la Informática](http://informatica.ucm.es/iv-semana-de-la-informatica-2018) de la [Facultad de Informática de la UCM](http://informatica.ucm.es).
 
-> Si los datos son el petróleo del siglo XXI el web scraping es la perforadora que ayuda a extraer ese valioso producto de los sitios web.
+> Si los datos son el petróleo del siglo XXI el web scraping (_data harvesting_ o cosechado de datos) es la perforadora que ayuda a extraer ese valioso producto de los sitios web.
 > 
 > En este taller introduciremos cómo realizar web scraping utilizando Python. Se pondrán en práctica dos técnicas de scraping diferentes y las ejemplificaremos usando las librerías Beautiful Soup y Selenium. El taller concluirá con una reflexión sobre los problemas éticos que conlleva el web scraping.
 
@@ -25,3 +25,8 @@ Extraído del artículo [Web Scraping: Best Practices to Follow](https://www.pro
 - Hazlo con responsabilidad: no lo uses para republicar los datos extraídos (seguramente infringirás leyes de copyright) y revisa los Términos y Condiciones de Uso del sitio para saber si está permitido.
 - Sé paciente: si vas a utilizarlo de manera continuada, seguramente tendrás que realizar un mantenimiento constante ante los cambios que sufra el sitio web que estás procesando.
 
+## Agradecimientos
+
+- A Antonio Sánchez por sus incursiones con Selenium al Campus Virtual.
+- A Sara Román por el material sobre _data harvesting_ que me ha ayudado a dar una breves pinceladas sobre la ética detrás de estas técnicas.
+- A Yolanda García por introducirme en el mundo de los Jupyter Notebooks y el análisis de datos con Python.
