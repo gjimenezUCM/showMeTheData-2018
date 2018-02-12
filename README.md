@@ -36,4 +36,6 @@ Extraído del artículo [Web Scraping: Best Practices to Follow](https://www.pro
 
 - A Antonio Sánchez por sus incursiones con Selenium al Campus Virtual.
 - A Sara Román por el material sobre _data harvesting_ que me ha ayudado a dar una breves pinceladas sobre la ética detrás de estas técnicas.
+- A Pedro Pablo Gómez por la revisión del material. 
 - A Yolanda García por introducirme en el mundo de los Jupyter Notebooks y el análisis de datos con Python.
+
